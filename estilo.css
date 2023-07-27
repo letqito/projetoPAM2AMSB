@@ -1,0 +1,10 @@
+.cor_fundo{
+    background-image:url(rick.jpg);
+    background-position: cover;
+    background-repeat: no-repeat;
+}
+.cor_fundo2{
+    background-color:rgb(210, 168, 216);
+    margin-top:5%;
+    padding: 10%;
+}

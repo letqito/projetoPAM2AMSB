@@ -1,0 +1,22 @@
+.cor_fundo{
+   background-image:url(fundoo.jpg);
+
+   background-attachment: fixed;
+    background-size: cover;
+    background-repeat: round;
+}
+.cor_fundo2{
+    color:white
+}
+.letra{
+    font-size: 20px;
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: 'Comic Sans';
+	
+    /*background-color: rgba(255, 255, 255, 0.3);
+   border-radius: 15px;*/
+}
+.titulo{
+    color: white; text-shadow: black 0.1em 0.1em 0.2em;
+    font-family: 'Comic Sans';
+}
